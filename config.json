@@ -1,9 +1,9 @@
 {
-    "token": "BOT_TOKEN",
-    "server_id": "000000000000000",
+    "token": "MTQ2MDY1MTU2NjE1ODg0NDA2Nw.GB08w-.XguzqY5DMnEekcQboO5PB0ZU7HmAbM-us6bxgo",
+    "server_id": "1459685670061604916",
     "channel_prefix": "modmail",
-    "modmail_viewing_role_id": "000000000000000",
+    "modmail_viewing_role_id": "1465694186614427816",
     "status": "DM to Contact Staff",
-    "modmail_category_name": "Modmail",
+    "modmail_category_name": "tickets",
     "display_mod_name": false
 }
